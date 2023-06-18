@@ -66,8 +66,8 @@
 
 </table>
 <p align="center">
-  <a href="https://www.linkedin.com/in/hafiz-m-huzaifa-khalid-69048b1b5/"><img src="https://img.shields.io/badge/-Hafiz%20M%20Huzaifa%20Khalid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:hmhuzaifakhalid@gmail.com"><img src="https://img.shields.io/badge/-hmhuzaifakhalid@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-ubaid-ullah-awan-7a6b541b9/"><img src="https://img.shields.io/badge/-Ubaid%20Ullah%20Awam-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:-ubmalik123@gmail.com"><img src="https://img.shields.io/badge/-ubmalik123@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <table>
