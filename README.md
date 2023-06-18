@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1 style="color: #F7CC18FF;">Hi there, I'm Hafiz M Huzaifa Khalid👋<a href="#"></a></h1>
+    <h1 style="color: #F7CC18FF;">Hi there, I'm Muhammad Ubaid Ullah Awan👋<a href="#"></a></h1>
   </div>
   <p align="center">
     <a href="https://git.io/typing-svg">
