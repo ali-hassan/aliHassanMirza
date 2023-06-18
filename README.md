@@ -4,17 +4,18 @@
   </div>
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=WordPress+Developer+;React+Developer;Front+End+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+WordPress+Developer+;Front+End+Developer" alt="Typing SVG" />
     </a>
   </p>
 
-  <h3>I'm a WordPress and MERN Developer</h3>
+  <h3>I'm a Full Stack website Developer</h3>
   <ul>
-    <li>🔭 I’m currently working as a Full Stack Develoepr</li>
-    <li>🌱 I’m currently expanding my knowledge in MERN Stack.</li>
+    <li>🔭 I’m currently working as a Full Stack WordPress Develoepr</li>
+    <li>💎 Expertise in custom theme development and plugin customization</li>
+    <li>🌱 I’m currently expanding my knowledge in Front End.</li>
     <li>👯 I want to collaborate with other developers.</li>
     <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
-    <li>💎 If you are a Tech boy/girl let's get connected</li>
+    
   </ul>
 	
 <h2>Tech Stack</h2>
