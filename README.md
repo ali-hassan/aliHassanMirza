@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1 style="color: #F7CC18FF;">Hi there, I'm Muhammad Ubaid Ullah Awan👋<a href="#"></a></h1>
+    <h1 style="color: #F7CC18FF;">Hi there, I'm Muhammad Ali Hassan Mirza👋<a href="#"></a></h1>
   </div>
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -66,7 +66,7 @@
 
 </table>
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ubaid-ullah-awan-7a6b541b9/"><img src="https://img.shields.io/badge/-Ubaid%20Ullah%20Awam-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ali-hassan-ali-hassan-mirza-50a6a041/"><img src="https://img.shields.io/badge/-Ubaid%20Ullah%20Awam-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:-ubmalik123@gmail.com"><img src="https://img.shields.io/badge/-ubmalik123@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
